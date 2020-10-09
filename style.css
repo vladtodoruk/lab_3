@@ -1,0 +1,109 @@
+ ul.five 
+{
+    list-style-image: url(images/apple.svg);
+}
+
+
+  
+  table, th, td {
+    border: 1px solid black;
+    
+  }
+
+
+table.second {
+    background-color: rgb(145, 175, 184);
+    border-collapse: collapse;
+}
+
+
+table.third {
+   
+
+    border: 1px solid darkcyan;
+}
+th.third {
+    border: 2px solid darkcyan;
+    color: rgb(0, 119, 199);
+    padding-top: 8px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 8px;
+}
+td.third {
+    border: 2px solid darkcyan;
+    color: rgb(0, 119, 199);
+    padding-top: 8px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 8px;
+}
+
+table.fourth {
+   
+    border-collapse: collapse;
+    border: 1px solid rgb(170, 15, 15);
+}
+th.fourth {
+    border: 2px solid rgb(170, 15, 15);
+    color: rgb(226, 145, 23);
+    padding-top: 3px;
+    padding-left: 5px;
+    padding-right: 90%;
+    padding-bottom: 3%;
+}
+td.fourth {
+    border: 2px solid rgb(170, 15, 15);
+    background-color: rgb(250, 232, 173);
+    padding-top: 8px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 8px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+table.five {
+   
+    border-collapse: collapse;
+    border: 1px solid rgb(170, 15, 15);
+}
+
+
+td.five_f {
+    border: 2px solid rgba(115, 247, 83, 0.89);
+    background-color: rgb(0, 172, 14);
+    color: khaki;
+    padding-top: 8px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 8px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+td.five_s {
+    border: 2px solid rgba(115, 247, 83, 0.89);
+    background-color: rgb(129, 247, 119);
+    
+    padding-top: 8px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 8px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+table.six {
+   
+    border-collapse: collapse;
+    border: 1px solid rgb(170, 15, 15);
+}
+
+
+td.six {
+    border: 2px solid rgba(115, 247, 83, 0.89);
+    border: 2px solid rgb(170, 15, 15);
+    padding-top: 8px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 8px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
